@@ -1,0 +1,40 @@
+body {
+    background: linear-gradient(to right, #EDDAC9, #D1E5E4); ;
+    /* font-family: Arial, sans-serif; */
+    font-family: "Philosopher", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+}
+
+h1 {
+    color: #D9895B;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+p {
+    color: #733C1D;
+    font-family: "Philosopher", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+.img1 {
+    width: 50%;
+    height: 50%;
+    margin: 50px;
+    border: 2px solid #F2E0D0;
+    border-width: 10px; 
+    border-radius: 15px;
+}
+
+.img2, .img3 {
+    width: 50%;
+    height: 50%;
+    margin: 50px;
+    border: 2px solid #0D0D0D;
+    border-width: 10px;
+    border-radius: 15px;
+}
+
